@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="slaay.slaay.OrderActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <EditText
+        android:id="@+id/creditcard"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/edit_text_height"
+        android:background="@drawable/rounded_edittext"
+        android:padding="8dp"
+        android:hint="Enter Credit Card Number"
+        android:textSize="20sp"
+        android:inputType="number"
+        android:layout_margin="8dp"/>
+
+        <EditText
+            android:id="@+id/expiration"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edit_text_height"
+            android:background="@drawable/rounded_edittext"
+            android:padding="8dp"
+            android:hint="Enter Expiration Date"
+            android:textSize="20sp"
+            android:inputType="number"
+            android:layout_margin="8dp"/>
+
+        <EditText
+            android:id="@+id/amount"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edit_text_height"
+            android:background="@drawable/rounded_edittext"
+            android:padding="8dp"
+            android:hint="Enter Amount"
+            android:textSize="20sp"
+            android:inputType="number"
+            android:layout_margin="8dp"/>
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            android:background="@drawable/mybutton"
+            android:layout_gravity="center"
+            android:text="Submit"
+            android:textColor="#fff"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

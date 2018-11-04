@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:15:5-44:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9cb1bad351193a2aa3083c42ac723a19\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9cb1bad351193a2aa3083c42ac723a19\AndroidManifest.xml:9:5-20
+MERGED from [ai.api:sdk:2.0.7] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\sdk-2.0.7.aar\06e1c27f9bc1a6f870febe1020abfbc2\AndroidManifest.xml:11:5-20
+MERGED from [ai.api:sdk:2.0.7] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\sdk-2.0.7.aar\06e1c27f9bc1a6f870febe1020abfbc2\AndroidManifest.xml:11:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\31fc09a3a0c805a63de1e8b065f7958d\AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\31fc09a3a0c805a63de1e8b065f7958d\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\35acab7303d3a544e80f737238de33ea\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\35acab7303d3a544e80f737238de33ea\AndroidManifest.xml:22:5-26:19
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\4d068efe2fd151acc30855eef7c11b7a\AndroidManifest.xml:9:5-20
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\4d068efe2fd151acc30855eef7c11b7a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad4b8cde7c79c33686fe0414f8030f1e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad4b8cde7c79c33686fe0414f8030f1e\AndroidManifest.xml:9:5-20
+	android:authorities
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:18:9-56
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:16:9-38
+provider#android.support.v4.content.FileProvider
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:grantUriPermissions
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:37:13-47
+	android:authorities
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:35:13-60
+	android:exported
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:34:13-67
+manifest
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9cb1bad351193a2aa3083c42ac723a19\AndroidManifest.xml:2:1-11:12
+MERGED from [ai.api:sdk:2.0.7] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\sdk-2.0.7.aar\06e1c27f9bc1a6f870febe1020abfbc2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\31fc09a3a0c805a63de1e8b065f7958d\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\35acab7303d3a544e80f737238de33ea\AndroidManifest.xml:17:1-28:12
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\4d068efe2fd151acc30855eef7c11b7a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.algolia:algoliasearch-android:3.26.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\algoliasearch-android-3.26.1.aar\fd8a4b813ea3f219e2d8e1970662ad04\AndroidManifest.xml:24:1-35:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9a9ab0c85fc766900519a61a818053a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad4b8cde7c79c33686fe0414f8030f1e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d6822e381fb548d9147399abb55fcf11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b19f65427ac64f0958774c49d086ffd3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\325f7e18cd7676a0276238a9d965c27f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bb2ec9c21dc752f054c39a349d928afb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2e007a764798acf918d516d4a29ce951\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b3a8df97b57a77921eed6197423cb291\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd22e44f3a5d570b58532dbb808338cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9a136b118e24ac6cfc0fc0b23b443a0f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\42a8b9c725ce2c5fbf8a7e19cd959132\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\792bb01d36f41088fac5b541b4463ce9\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.algolia:algoliasearch-android:3.26.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\algoliasearch-android-3.26.1.aar\fd8a4b813ea3f219e2d8e1970662ad04\AndroidManifest.xml:33:5-67
+MERGED from [com.algolia:algoliasearch-android:3.26.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\algoliasearch-android-3.26.1.aar\fd8a4b813ea3f219e2d8e1970662ad04\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:9:22-77
+uses-feature#android.hardware.camera
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:12:9-47
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9cb1bad351193a2aa3083c42ac723a19\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\9cb1bad351193a2aa3083c42ac723a19\AndroidManifest.xml:5:5-7:41
+MERGED from [ai.api:sdk:2.0.7] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\sdk-2.0.7.aar\06e1c27f9bc1a6f870febe1020abfbc2\AndroidManifest.xml:7:5-9:41
+MERGED from [ai.api:sdk:2.0.7] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\sdk-2.0.7.aar\06e1c27f9bc1a6f870febe1020abfbc2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\31fc09a3a0c805a63de1e8b065f7958d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\31fc09a3a0c805a63de1e8b065f7958d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\35acab7303d3a544e80f737238de33ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\35acab7303d3a544e80f737238de33ea\AndroidManifest.xml:20:5-44
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\4d068efe2fd151acc30855eef7c11b7a\AndroidManifest.xml:7:5-43
+MERGED from [dev.dworks.libs:volleyplus:0.1.4] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\volleyplus-0.1.4.aar\4d068efe2fd151acc30855eef7c11b7a\AndroidManifest.xml:7:5-43
+MERGED from [com.algolia:algoliasearch-android:3.26.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\algoliasearch-android-3.26.1.aar\fd8a4b813ea3f219e2d8e1970662ad04\AndroidManifest.xml:29:5-31:41
+MERGED from [com.algolia:algoliasearch-android:3.26.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\algoliasearch-android-3.26.1.aar\fd8a4b813ea3f219e2d8e1970662ad04\AndroidManifest.xml:29:5-31:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9a9ab0c85fc766900519a61a818053a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9a9ab0c85fc766900519a61a818053a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad4b8cde7c79c33686fe0414f8030f1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ad4b8cde7c79c33686fe0414f8030f1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d6822e381fb548d9147399abb55fcf11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\d6822e381fb548d9147399abb55fcf11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b19f65427ac64f0958774c49d086ffd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b19f65427ac64f0958774c49d086ffd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\325f7e18cd7676a0276238a9d965c27f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\325f7e18cd7676a0276238a9d965c27f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bb2ec9c21dc752f054c39a349d928afb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\bb2ec9c21dc752f054c39a349d928afb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2e007a764798acf918d516d4a29ce951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2e007a764798acf918d516d4a29ce951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b3a8df97b57a77921eed6197423cb291\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b3a8df97b57a77921eed6197423cb291\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd22e44f3a5d570b58532dbb808338cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cd22e44f3a5d570b58532dbb808338cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9a136b118e24ac6cfc0fc0b23b443a0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9a136b118e24ac6cfc0fc0b23b443a0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\42a8b9c725ce2c5fbf8a7e19cd959132\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\42a8b9c725ce2c5fbf8a7e19cd959132\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\792bb01d36f41088fac5b541b4463ce9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\792bb01d36f41088fac5b541b4463ce9\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml
+activity#slaay.slaay.MainActivity
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:24:19-47
+activity#slaay.slaay.WelcomeActivity
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:25:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:29:27-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:38:13-40:64
+	android:resource
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:40:17-51
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:39:17-67
+activity#slaay.slaay.OrderActivity
+ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:43:9-60
+	android:name
+		ADDED from D:\AndroidStudioProjects\Slaay\app\src\main\AndroidManifest.xml:43:19-48
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\35acab7303d3a544e80f737238de33ea\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\35acab7303d3a544e80f737238de33ea\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nikhi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\35acab7303d3a544e80f737238de33ea\AndroidManifest.xml:24:13-51
